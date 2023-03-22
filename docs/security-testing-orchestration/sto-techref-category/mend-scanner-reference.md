@@ -39,7 +39,6 @@ You must configure the following settings depending on the product lookup type  
 * `product_product_name`
 * `product_project_name`
 * `product_project_token`
-* `product_project_token`
 
 
 <!-- CONTAINERS --------------------------------------------------------------------------- -->
